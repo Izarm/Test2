@@ -2,3 +2,5 @@ Verde
 rojo
 negro
 blanco
+gris
+amarillo
